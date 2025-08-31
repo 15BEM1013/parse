@@ -1,1 +1,6 @@
-pip install telethon ccxt python-telegram-bot
+telethon==1.36.0
+ccxt==4.3.0
+python-telegram-bot==20.7
+PySocks==1.7.1
+aiohttp_socks==0.8.4
+python-dotenv==1.0.1
